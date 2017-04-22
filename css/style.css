@@ -1,0 +1,28 @@
+body {
+	min-height: 2500px;
+}
+
+
+div {
+	color:black;
+	font size: 1.5em;
+}
+
+.red {
+	background-color: red;
+}
+
+.blue {
+	background-color: blue;
+}
+.green {
+	background-color: green;
+}
+
+.purple {
+	background-color: purple;
+}
+
+.item {
+	height: 500px;;
+}
